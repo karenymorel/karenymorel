@@ -25,8 +25,8 @@
 <h3 align="left">📈 Mis Estadísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karen-ym&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=karen-ym&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karenymorel&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=karenymorel&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
